@@ -1,5 +1,5 @@
 
-# 🚀 SHELLddospanel - Free DDoS Panel 🚀
+# 🚀 GSTddospanel - Free DDoS Panel 🚀
 
 
 # Info
@@ -11,7 +11,7 @@
 
 # Credits
 
-SHELL
+G.S.T,LitLines (Founder) ,Shell
 
 
 # წესები
@@ -21,5 +21,4 @@ SHELL
 
 
 # CONTACT:
-Telegram: shell
-Discord: SHELL0666
+Discord: LitLines#0666
